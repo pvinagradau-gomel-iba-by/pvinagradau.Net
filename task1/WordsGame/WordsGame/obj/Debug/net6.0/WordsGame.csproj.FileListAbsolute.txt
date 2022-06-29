@@ -1,0 +1,15 @@
+D:\Project\C# .Net\task1\WordsGame\WordsGame\bin\Debug\net6.0\WordsGame.exe
+D:\Project\C# .Net\task1\WordsGame\WordsGame\bin\Debug\net6.0\WordsGame.deps.json
+D:\Project\C# .Net\task1\WordsGame\WordsGame\bin\Debug\net6.0\WordsGame.runtimeconfig.json
+D:\Project\C# .Net\task1\WordsGame\WordsGame\bin\Debug\net6.0\WordsGame.dll
+D:\Project\C# .Net\task1\WordsGame\WordsGame\bin\Debug\net6.0\WordsGame.pdb
+D:\Project\C# .Net\task1\WordsGame\WordsGame\obj\Debug\net6.0\WordsGame.csproj.AssemblyReference.cache
+D:\Project\C# .Net\task1\WordsGame\WordsGame\obj\Debug\net6.0\WordsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C# .Net\task1\WordsGame\WordsGame\obj\Debug\net6.0\WordsGame.AssemblyInfoInputs.cache
+D:\Project\C# .Net\task1\WordsGame\WordsGame\obj\Debug\net6.0\WordsGame.AssemblyInfo.cs
+D:\Project\C# .Net\task1\WordsGame\WordsGame\obj\Debug\net6.0\WordsGame.csproj.CoreCompileInputs.cache
+D:\Project\C# .Net\task1\WordsGame\WordsGame\obj\Debug\net6.0\WordsGame.dll
+D:\Project\C# .Net\task1\WordsGame\WordsGame\obj\Debug\net6.0\refint\WordsGame.dll
+D:\Project\C# .Net\task1\WordsGame\WordsGame\obj\Debug\net6.0\WordsGame.pdb
+D:\Project\C# .Net\task1\WordsGame\WordsGame\obj\Debug\net6.0\WordsGame.genruntimeconfig.cache
+D:\Project\C# .Net\task1\WordsGame\WordsGame\obj\Debug\net6.0\ref\WordsGame.dll
